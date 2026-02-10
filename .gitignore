@@ -1,6 +1,5 @@
 # Binaries
 bin/
-mcp-kind-manager
 *.exe
 *.exe~
 *.dll
